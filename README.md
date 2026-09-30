@@ -263,10 +263,4 @@ Contributions are welcome! If you find a bug or want to introduce a feature:
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 <p center>Made with ❤️ by Gamvir Khanal</p>
